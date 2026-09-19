@@ -4,7 +4,7 @@ python-dotenv>=1.0,<2
 
 # Google
 google-auth>=2.29,<3
-google-api-python-client>=2.130,<3
+google-api-python-client>=2.200.0,<3
 
 # Twilio
 twilio>=9.0,<10
