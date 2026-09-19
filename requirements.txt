@@ -13,4 +13,4 @@ twilio>=9.0,<10
 sendgrid>=6.11,<7
 
 # HTML parsing
-beautifulsoup4>=4.12,<5
+beautifulsoup4>=4.15.0,<5
