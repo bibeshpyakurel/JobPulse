@@ -2,6 +2,7 @@
 .env
 *.json
 !package.json
+!.project.json
 
 # Database
 *.db
