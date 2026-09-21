@@ -1,0 +1,7 @@
+{
+  "role": "Sole developer",
+  "resumeEligible": false,
+  "stack": ["Python", "Flask", "Gmail API", "Google Cloud Pub/Sub", "SQLite", "Twilio", "SendGrid", "Render"],
+  "oneLiner": "A Gmail-driven job alert aggregator that parses alert mail, deduplicates listings, and notifies by SMS and email.",
+  "startDate": "2026-04"
+}
