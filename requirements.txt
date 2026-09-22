@@ -7,7 +7,7 @@ google-auth>=2.29,<3
 google-api-python-client>=2.200.0,<3
 
 # Twilio
-twilio>=9.0,<10
+twilio>=9.11.1,<10
 
 # SendGrid
 sendgrid>=6.11,<7
