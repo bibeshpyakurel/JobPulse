@@ -10,7 +10,7 @@ google-api-python-client>=2.200.0,<3
 twilio>=9.0,<10
 
 # SendGrid
-sendgrid>=6.11,<7
+sendgrid>=6.12.5,<7
 
 # HTML parsing
 beautifulsoup4>=4.15.0,<5
